@@ -1,5 +1,46 @@
-Hi 👋 My name is Marco Solimano
-<br/>
-Software Developer
-<br/>
-Currently I am dedicated to development, I am passionate about all kinds of technologies, I believe that the greatest virtue of a developer is the curiosity to learn new things, I hope that my repositories are useful for new minds in this great world.
+# Marco Solimano
+
+Software developer. I build from the screen to the cluster: mobile apps, web, and services. The business rule stays in the middle. The framework stays at the edge.
+
+Curiosity is the part of the job I trust most. I keep these repositories small and readable so someone opening one can follow the flow and learn the stack from the code.
+
+## Stack
+
+| Area | What I use |
+| --- | --- |
+| iOS | Swift, MVVM, Clean Architecture |
+| Android | Kotlin, Jetpack Compose, MVVM, Hilt, Coroutines, Flow, Firebase |
+| React Native | CLI, Firebase, Clean Architecture, MVVM, dependency injection, realtime CRUD |
+| Flutter | Clean Architecture, MVVM, Bloc, Provider, dependency injection, streams, images |
+| Web | Next.js (SSR, SSG, CSR, ISR), middleware, dynamic routes, Route Handlers, NextAuth, Material UI, cookies |
+| Node | NestJS (NATS, webhooks, gateways) and Express with dependency injection |
+| JVM | Spring Boot, Spring Cloud, OpenAPI, API-first, OAuth2, DDD, CQRS, hexagonal architecture, Java 25 |
+| .NET | ASP.NET Core, Clean Architecture, Entity Framework, Dapper, SOLID, DDD |
+| Go | Clean Architecture, hexagonal architecture, Gin, GORM |
+| Python | FastAPI, hexagonal architecture, Clean Architecture |
+| PHP | Hexagonal architecture, Clean Architecture |
+| Data | PostgreSQL, MongoDB, SQLite |
+| Platform | Docker, Kubernetes, Amazon EKS, Helm, Argo CD, Prometheus, Grafana, GitHub Actions, AWS (OIDC, ECR, ECS), Google Cloud |
+
+## Repositories
+
+One project per stack. Each README has the concept, the stack, and a flow diagram.
+
+| Project | Stack |
+| --- | --- |
+| [Andén](https://github.com/MsolimanoMiranda/anden) | Next.js, SSR, SSG, CSR, ISR, NextAuth, Material UI |
+| [Cuentas claras](https://github.com/MsolimanoMiranda/anden-cuentas-claras) | Swift, MVVM, Clean Architecture |
+| [Bodega](https://github.com/MsolimanoMiranda/anden-bodega) | Jetpack Compose, Hilt, Coroutines, Flow, Firebase |
+| [Puesto vivo](https://github.com/MsolimanoMiranda/anden-puesto-vivo) | React Native CLI, Firebase, MVVM |
+| [Taller](https://github.com/MsolimanoMiranda/anden-taller) | Flutter, Bloc, Provider |
+| [Muelle](https://github.com/MsolimanoMiranda/anden-muelle) | NestJS, NATS, webhooks, Docker |
+| [Consultorio](https://github.com/MsolimanoMiranda/anden-consultorio) | ASP.NET Core, EF, Dapper, DDD |
+| [Banco](https://github.com/MsolimanoMiranda/anden-banco) | Spring Boot, OpenAPI, OAuth2 |
+| [Ruta de pagos](https://github.com/MsolimanoMiranda/anden-ruta-pagos) | Spring Cloud Gateway, OAuth2 |
+| [Agentes](https://github.com/MsolimanoMiranda/anden-agentes) | Spring Boot 4, DDD, CQRS, Java 25 |
+| [Caja](https://github.com/MsolimanoMiranda/anden-caja) | Go, Gin, GORM |
+| [Mesa](https://github.com/MsolimanoMiranda/anden-mesa) | FastAPI, hexagonal architecture |
+| [Comprobantes](https://github.com/MsolimanoMiranda/anden-comprobantes) | Express, dependency injection |
+| [Estantería](https://github.com/MsolimanoMiranda/anden-estanteria) | PHP, hexagonal architecture |
+| [Plataforma](https://github.com/MsolimanoMiranda/anden-plataforma) | Kubernetes, EKS, Helm, Argo CD, Prometheus |
+| [Despliegue](https://github.com/MsolimanoMiranda/anden-despliegue) | GitHub Actions, AWS OIDC, ECR, ECS |
